@@ -1,0 +1,43 @@
+
+Cosmic
+     301 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-ncv.edge
+     468 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-prom.edge
+     505 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge
+     
+      35 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-ncv.edge
+      34 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-prom.edge
+      22 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge
+      
+    5789 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-ncv.edge
+   22147 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-prom.edge
+   25233 ChIA-PET_PublishedInteractionCosmicPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.mCosmic_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge
+   
+   
+   
+GWAS   
+       0 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.gwas-gwas.edge
+       2 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.gwas-prom.edge
+     505 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge
+     
+       0 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.gwas-gwas.edge
+       0 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.gwas-prom.edge
+      22 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge
+      
+      12 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.gwas-gwas.edge
+     105 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.gwas-prom.edge
+   25233 ChIA-PET_PublishedInteractionGWASPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.GWAS_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge
+   
+
+
+Hotspot (weinhold)
+      39 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-ncv.edge
+     110 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-prom.edge
+     505 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_CTCF-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge
+     
+       4 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-ncv.edge
+       5 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-prom.edge
+      22 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_ESR1-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge
+      
+     500 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-ncv.edge
+    5536 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.ncv-prom.edge
+   25233 ChIA-PET_PublishedInteractionHotspotPairing/ENCODE_MCF-7_ChIA-PET_POLR2A-human.Rep0.Hotspot_BreastCancerFeature500.intrachromosomal.midrange.pet2.prom-prom.edge

@@ -1,0 +1,11 @@
+#!/usr/bin/env Rscript
+
+args = commandArgs(trailingOnly=TRUE)
+infile<-args[1];
+outfile<-args[2];
+title<-args[3];
+d<-read.table(infile, sep = "\t", header=F)
+png(outfile)
+plot(d$V3, type ='l', col="red", xlab="number of genes", ylab="number of associated mutations", main = title) 
+dev.off()
+
