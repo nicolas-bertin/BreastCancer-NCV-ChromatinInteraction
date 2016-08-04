@@ -1,5 +1,4 @@
-# BreastCancer-NCV-ChromatinInteraction
-Deorphanizing gene-distal non-coding cancer-associated somatic mutations with chromatin interactions in breast cancer
+# Deorphanizing gene-distal non-coding cancer-associated somatic mutations with chromatin interactions in breast cancer
 
 &ensp;&ensp;Somatic alterations of the genome are a leading cause of cancer development and progression.<br/>
 &ensp;&ensp;While advances in sequencing technologies have enabled the discovery of alterations in protein-coding genes in large cohorts of cancer-derived samples, genome-wide surveys of somatic alterations also revealed that a subsequent amount are also located within non-coding regions of the genome.<br/><br/>
