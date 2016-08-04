@@ -1,0 +1,3 @@
+ncv_id	ncv_location	ncv_sample_id	target_gene_name	target_gene_id	target_promoter_location	chiapet_factor	chiapet_petcount
+rs3903072	chr11:65582565..65583566,.	1	AP5B1	94840	chr11:65547561..65548562,-	CTCF-human	2
+rs3903072	chr11:65582565..65583566,.	1	AP5B1_ENST00000532090	95020	chr11:65547561..65548562,-	CTCF-human	2
