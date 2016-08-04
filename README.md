@@ -8,4 +8,5 @@ Deorphanizing gene-distal non-coding cancer-associated somatic mutations with ch
    * We compared this data with breast cancer-associated mutations identified from COSMIC and Genome-Wide Association Studies (GWAS) from breast cancer studies.
    * We identified hundreds of chromatin loops between non-coding variants and known gene promoter regions. 
    * Examining a network of non-coding variants associated with genes through chromatin interactions, we identified that several non-coding variants in different enhancers could connect recurrently to the same gene. 
-   * Also, we observed non-coding variants that affect multiple genes. Taken together, these results lay a framework for better understanding of the effects of distal non-coding variants on putative target genes through chromatin interactions
+   * Also, we observed non-coding variants that affect multiple genes. 
+&ensp;&ensp;Taken together, these results lay a framework for better understanding of the effects of distal non-coding variants on putative target genes through chromatin interactions
