@@ -25,7 +25,7 @@ NHGRI's collection of Genome-Wide Association Studies SNPs Catalog is a quality 
 PanCancer Mutation hotspots were retireved from Weinhold et al. Nat. Gen. 2014 Supp table 17 (“Hotspots In Individual Cancer Types”). Breast cancer mutation hotspots wrere complemented (based on overlapping genomic coordinates) with Breast Cancer COSMIC WGS non-coding variants list described above.
 
 
-## Chromatin-chromatin interactions
+## MCF-7 Chromatin-chromatin interactions
 
 Published chromatin-chromatin interactions were retreived from ENCODE data portal : https://www.encodeproject.org/ as bed12 formatted file, accession numbers : 
 * ENCSR000CAD (CTCF ChIA-PET on human MCF-7)
