@@ -27,4 +27,7 @@ PanCancer Mutation hotspots were retireved from Weinhold et al. Nat. Gen. 2014 S
 
 ## Chromatin-chromatin interactions
 
-Published chromatin-chromatin interactions were retreived from ENCODE data portal : https://www.encodeproject.org/ as bed12 formatted file, accession numbers : ENCSR000CAD (CTCF ChIA-PET on human MCF-7),  ENCSR000BZZ (ESR1 ChIA-PET on human MCF-7) and ENCSR000CAA (POLR2A ChIA-PET on human MCF-7)
+Published chromatin-chromatin interactions were retreived from ENCODE data portal : https://www.encodeproject.org/ as bed12 formatted file, accession numbers : 
+* ENCSR000CAD (CTCF ChIA-PET on human MCF-7)
+* ENCSR000BZZ (ESR1 ChIA-PET on human MCF-7)
+* ENCSR000CAA (POLR2A ChIA-PET on human MCF-7)
